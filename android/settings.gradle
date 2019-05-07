@@ -1,0 +1,3 @@
+rootProject.name = 'sos_3049'
+
+include ':app'
